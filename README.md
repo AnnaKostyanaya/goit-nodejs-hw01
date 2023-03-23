@@ -1,2 +1,2 @@
-# goit-nodejs-hw01
-goit-nodejs-hw01
+screenshorts:
+https://drive.google.com/drive/folders/17FhBczo_d4Ea5wyn-bMnuwTH6LfKAzvC
